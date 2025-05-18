@@ -1,0 +1,2 @@
+# excel_automation_scripts
+Excel作業をPythonで自動化するスクリプト集｜集計・変換・フォルダ操作など
